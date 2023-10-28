@@ -1,0 +1,1 @@
+docker build -t sadbin/digitreader:v1 .
